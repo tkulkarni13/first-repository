@@ -2,4 +2,4 @@
 
 Author: Tejas Kulkarni
 
-url: codingtemple.com
+email: tejas.pie@gmail.com
